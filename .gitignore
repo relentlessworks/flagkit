@@ -1,0 +1,17 @@
+# Binary (root level only)
+/flagkit
+*.exe
+
+# Test artifacts
+*.json
+!docs/*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
